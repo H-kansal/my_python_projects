@@ -1,0 +1,1 @@
+list=["himanshu","tanmay","naman","bharat","jiya","ronak","arya","length","kansal","bansal","mittal","goyal","gupta","size","bhagya","mayank","kirat","aditya","yuvraj","adarsh","krishna"]
